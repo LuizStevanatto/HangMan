@@ -18,5 +18,5 @@ Project is created with:
 To run this project, download the project [here](https://github.com/LuizStevanatto/HangMan.git):
 
 ```
-$ cd HANGMAN
+$ cd HangMan
 $ python3 main.py
